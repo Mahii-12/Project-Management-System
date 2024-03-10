@@ -3,7 +3,7 @@
 ## Java, Maven, Spring Boot, Hibernate: 
 * I chose Java as the programming language due to its robustness and widespread usage. Spring Boot simplifies the setup of Spring-based applications, while Hibernate facilitates object-relational mapping (ORM), streamlining database interactions.
 ## H2 In-Memory Database: 
-* Utilizing an in-memory database like H2 offers fast data access and persistence without the need for external database setup, making development and testing more efficient.
+* Used H2 as Database to store user, project, and task databases. Utilizing an in-memory database like H2 offers fast data access and persistence without the need for external database setup, making development and testing more efficient.
 
 ## Scalability and SOLID Principles:
 
@@ -13,14 +13,14 @@
 ## Entity Structure:
 
 * User, Project, and Task Entities:
-  > These entities represent the core components of your project management system. Users interact with projects, and projects consist of tasks, forming a hierarchical structure.
+  > Created these entities, which represent the core components of your project management system. Users interact with projects, and projects consist of tasks, forming a hierarchical structure.
 * Entity Relationships:
-  > 'Ive established mappings between entities using Hibernate annotations or XML configurations, ensuring proper data associations and integrity.
+  > 'Ive established mappings between entities using Hibernate annotations, ensured proper data associations and integrity between the entities.
 
 ## CRUD Operations:
 
 * Create, Read, Update, Delete (CRUD):
-  > Implemented these operations allows users to manage projects and his tasks for the projects effectively. They can create new projects, view existing ones, update project details, and remove projects as needed, providing comprehensive functionality.
+  > Implemented crud operations, which allows users to manage projects and his tasks for the projects effectively. They can create new projects, view existing ones, update project details, and remove projects as needed, providing comprehensive functionality.
 
 ## Validation:
 
@@ -30,8 +30,7 @@
 ## Documentation:
 
 > Swagger2 Integration:
-* Integrating Swagger2 enables automatic generation of comprehensive API documentation. This documentation describes available endpoints, request/response formats, and parameters, facilitating easier integration and usage by other developers.
-Testing:
+* Integrated Swagger2, which enables automatic generation of comprehensive API documentation. This documentation describes available endpoints, request/response formats, and parameters, facilitating easier integration and usage by other developers.
 
 ## Testing:
 
