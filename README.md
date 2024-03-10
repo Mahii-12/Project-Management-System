@@ -29,7 +29,8 @@
 
 ## Documentation:
 
-> Swagger2 Integration: * Integrating Swagger2 enables automatic generation of comprehensive API documentation. This documentation describes available endpoints, request/response formats, and parameters, facilitating easier integration and usage by other developers.
+> Swagger2 Integration:
+* Integrating Swagger2 enables automatic generation of comprehensive API documentation. This documentation describes available endpoints, request/response formats, and parameters, facilitating easier integration and usage by other developers.
 Testing:
 
 ## Testing:
