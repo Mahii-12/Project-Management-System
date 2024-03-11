@@ -13,7 +13,7 @@
 ## Entity Structure:
 
 * User, Project, and Task Entities:
-  > Created these entities, which represent the core components of your project management system. Users interact with projects, and projects consist of tasks, forming a hierarchical structure.
+  > Created these entities, which represent the core components of our project management system. Users interact with projects, and projects consist of tasks, forming a hierarchical structure.
 * Entity Relationships:
   > 'Ive established mappings between entities using Hibernate annotations, ensured proper data associations and integrity between the entities.
 
